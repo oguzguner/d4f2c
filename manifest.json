@@ -1,0 +1,32 @@
+{
+ "format": 1,
+ "version": "202610100354",
+ "generated": "2026-10-10",
+ "metroFetched": "2026-10-10",
+ "files": {
+  "network.json": {
+   "gz": "network.json.gz",
+   "size": 3960404,
+   "gzSize": 1247549,
+   "sha256": "31e2b73406170a04357b1cab9cefa2ed422453a78a7330a10870fb8e2c81cf5b"
+  },
+  "schedules.json": {
+   "gz": "schedules.json.gz",
+   "size": 6600991,
+   "gzSize": 919665,
+   "sha256": "5b187af86b88d0915789de4336d949de1f63e9344a2c37ea0e5bca8aa4f9006e"
+  },
+  "places.json": {
+   "gz": "places.json.gz",
+   "size": 4584985,
+   "gzSize": 1297583,
+   "sha256": "a9e9ae251d4d40dfc538ceda1fd99154b7b3ec3c4da80d9696a872128dd7d1a0"
+  },
+  "stations.json": {
+   "gz": "stations.json.gz",
+   "size": 24482,
+   "gzSize": 6349,
+   "sha256": "2f16da0ae256f65c975f0f502258e093434b34bb21c36af7161b02bcb55f9d09"
+  }
+ }
+}
